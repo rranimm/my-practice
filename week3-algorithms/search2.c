@@ -3,5 +3,7 @@
 
 int main(void)
 {
-    string 
+    string strings[] = {"battleship", "boot", "cannon", "iron", "thimble", "top hat"};
+    string s = get_string("String: ");
+
 }
