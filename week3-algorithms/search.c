@@ -9,10 +9,10 @@ int main(void)
     {
         if(numbers[i] == n)
         {
-            print("Found.\n");
+            printf("Found.\n");
             return 0 ;
         }
     }
-    print("Not found.\n");
+    printf("Not found.\n");
     return 1;
 }
