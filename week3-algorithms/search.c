@@ -3,6 +3,8 @@
 
 int main(void)
 {
-    int numbers [] ={}
+    int numbers [] ={20, 500, 10, 5, 100, 1, 50};
+    int n = get_int("Number: ");
+    for(int i = 0; i < numbers.)
 
 }
